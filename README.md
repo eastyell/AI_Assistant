@@ -99,6 +99,7 @@ AI_assistant/
 ├── run.bat                    # Windows 启动脚本
 ├── README.md                  # 说明文档
 └── vosk-model-small-cn-0.22/  # Vosk 中文语音模型
+└── MCP/                       # 远程MCP服务器
 ```
 
 ## 使用方法
